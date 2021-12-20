@@ -1,0 +1,358 @@
+,Raw Tag
+0,Access control and authorization
+1,Anonymity
+2,Application security
+3,Attacks and defenses
+4,Authentication
+5,Blockchains and distributed ledger security
+6,Censorship resistance
+7,Cloud security
+8,Cyber physical systems security
+9,Distributed systems security
+10,Economics of security and privacy
+11,Embedded systems security
+12,Forensics
+13,Hardware security
+14,Intrusion detection and prevention
+15,Malware and unwanted software
+16,Mobile and Web security and privacy
+17,Language-based security
+18,Machine learning and AI security
+19,Network and systems security
+20,Privacy technologies and mechanisms
+21,Protocol security
+22,Secure information flow
+23,Security and privacy for the Internet of Things
+24,Security and privacy metrics
+25,Security and privacy policies
+26,Security architectures
+27,Usable security and privacy
+28,Trustworthy computing
+29,Web security
+30,Active learning
+31,Clustering
+32,Online learning
+33,Ranking
+34,Reinforcement learning
+35,Semi-supervised learning
+36,Time series analysis
+37,Unsupervised learning
+38,Architectures
+39,Generative models
+40,Deep reinforcement learning
+41,Bandits
+42,Game theory
+43,Statistical learning theory
+44,Convex optimization
+45,Non-convex optimization
+46,Matrix and tensor methods
+47,Sparsity
+48,Bayesian methods
+49,Graphical models
+50,Monte Carlo methods
+51,Accountability
+52,Causality
+53,Fairness
+54,Privacy technologies and mechanisms
+55,Robustness
+56,Computational biology
+57,Crowdsourcing
+58,Healthcare
+59,Neuroscience
+60,Social good
+61,Climate science
+62,2D object recognition
+63,3D computer vision
+64,3D object recognition
+65,Action and behavior recognition
+66,"Adversarial learning, adversarial attack and defense methods"
+67,"Biometrics, face, gesture, body pose"
+68,Computational photography
+69,Datasets and evaluation
+70,Efficient training and inference methods for networks
+71,"Explainable AI, fairness, accountability, privacy, transparency and ethics in vision"
+72,Image and video retrieval
+73,Image and video synthesis
+74,Image classification
+75,Low-level and physics-based vision
+76,Machine learning architectures and formulations
+77,"Medical, biological and cell microscopy"
+78,Motion and tracking
+79,Optimization and learning methods
+80,Pose estimation
+81,"Representation learning, deep learning"
+82,Scene analysis and understanding
+83,"Transfer, low-shot, semi- and un- supervised learning"
+84,Video analysis and understanding
+85,"Vision + language, vision + other modalities"
+86,"Vision applications and systems, vision for robotics and autonomous vehicles"
+87,3D from a single image and shape-from-x
+88,Action and behavior recognition
+89,Adversarial learning
+90,Biometrics
+91,Computational photography
+92,Datasets and evaluation
+93,Detection and localization in 2D and 3D
+94,Efficient training and inference methods
+95,Explainable AI
+96,Faces
+97,"Fairness, accountability, transparency, and ethics in vision"
+98,Gestures and body pose
+99,Image and video synthesis
+100,Image and video retrieval
+101,Image and video manipulation detection and integrity methods.
+102,Low-level and physics-based vision
+103,Machine learning architectures and formulations
+104,"Medical, biological, and cell microscopy"
+105,Motion and tracking
+106,Neural generative models
+107,Optimization and learning methods
+108,Recognition and classification
+109,Representation learning
+110,Scene analysis and understanding
+111,Scene text and document understanding
+112,"Segmentation, grouping and shape"
+113,"Stereo, 3D from multiview and other sensors"
+114,Transfer/Low-shot/Semi/Unsupervised Learning
+115,Video analysis and understanding
+116,Vision + language
+117,Vision + other modalities
+118,Vision applications and systems
+119,Vision for robotics and autonomous vehicles
+120,Visual reasoning and logical representation
+121,"Processor, memory, and storage systems architecture"
+122,Multiprocessor systems
+123,Datacenter-scale computing
+124,"IoT, mobile and embedded architecture"
+125,"Interconnection network, router and network interface architecture"
+126,"Accelerator-based, application-specific and reconfigurable architecture"
+127,Architectural support for programming languages or software development
+128,Architectural support for interfacing with accelerators
+129,"Architectural support for security, virtual memory, and virtualization"
+130,"Instruction, thread and data-level parallelism"
+131,Dependable processor and system architecture
+132,"Architecture for emerging technologies and applications, including machine learning, novel memory technologies, quantum computing, etc."
+133,Effects of circuits or technology on architecture
+134,Architecture modeling and simulation methodologies
+135,Evaluation and measurement of real computing systems
+136,"Hardware, software, and hybrid techniques for improving system performance, energy-efficiency, security, cost, complexity, programmer productivity, predictability, quality of service, reliability, dependability, scalability, etc."
+137,"Architectures for emerging application domains such as deep learning, machine learning, relational computation, neuromorphic, quantum, etc."
+138,"Accelerator designs and heterogeneous architectures including system-on-chip architectures, application specific fixed function, programmable, reconfigurable, near-data and in-memory accelerators, etc."
+139,"Architectural support for security, side-channel attacks and mitigation, privacy preserving computation, IoT/Cloud/Cyber-Physical-System security, security primitives, trusted execution environments, etc."
+140,"Architecture, microarchitecture and/or compiler optimizations for graphics processor units (GPUs) or other programmable accelerators"
+141,"Microarchitecture and compiler techniques for optimizing the memory hierarchy, analysis of new memory hierarchies, emerging architectures based on new memory technologies"
+142,"Architectures for instruction-level, thread-level, and memory-level parallelism: superscalar, VLIW, data-parallel, multithreaded, multicore, many-core, etc."
+143,"Processor, memory, interconnect, and storage architectures"
+144,"Compiler and microarchitectural techniques for parallelism (ILP, TLP, MLP)"
+145,"Microarchitecture techniques to better support system software, programming languages, programmability, and compilation"
+146,Advanced software/hardware speculation and prediction schemes
+147,Microarchitecture modeling and simulation methodology
+148,"Low-power, high-performance, and cost/complexity-efficient architectures"
+149,"Architectures for emerging embedded platforms, including smartphones, automotive, server/cloud, etc."
+150,"Architecture and/or compiler optimizations for embedded processors, DSPs, ASIPs (network processors, multimedia, wireless, etc.)"
+151,"Insightful experimental and comparative evaluation and analysis of existing microarchitectures, hardware/software mechanisms and workloads"
+152,"Circuits, Reliability, and Fault-Tolerance (CRT)"
+153,Computer-Aided Design and Verification (CAD)
+154,Digital Circuits and FPGA based Designs (DCF)
+155,Emerging and Post-CMOS Technologies (EPT)
+156,System Design and Security (SDS)
+157,VLSI for Applied and Future Computing (AFC)
+158,Dependable system design
+159,Dependable Computer Architectures
+160,Design-for-Reliability
+161,Design for Reliability approaches for Low-Power
+162,Cross-layer reliability approaches
+163,Fault-Tolerant and Fail-Safe systems
+164,Functional safety
+165,Self-Test and Self-Repair
+166,Self-Healing design
+167,Self-Regulating design
+168,Self-Adapting design
+169,Reliability issues of Low-Power Design
+170,Robustness evaluation
+171,"Quality, yield, reliability and lifespan issues in nanometer technologies"
+172,
+173,"Variability, Aging, EMI, and Radiation Effects in nanometer technologies"
+174,"On-line testing techniques for digital, analog and mixed-signal circuits"
+175,Self-checking circuits and coding theory
+176,"On-line monitoring of current, temperature, process variations, and aging"
+177,Power density and overheating issues in nanometer technologies
+178,"Field Diagnosis, Maintainability, and Reconfiguration"
+179,Design for Security
+180,Fault-based attacks and counter measures
+181,"Design for Robustness for automotive, railway, avionics, space, large industrial applications, IT infrastructure, cloud computing, and wired, cellular and satellite communications"
+182,CAD for robust circuits design
+183,"Trust semantics, metrics and models"
+184,Trusted computing platform
+185,Trusted network computing
+186,Trusted operating systems
+187,Trusted software and applications
+188,Trust in social networks
+189,Trust in e-commerce and e-government
+190,Trust in mobile and wireless communications
+191,Risk and reputation management
+192,Survivable computer systems/networks
+193,Trust in 5G networks
+194,Miscellaneous trust issues in cyber Security
+195,System reverse engineering
+196,Watermarking and security
+197,Cryptanalysis and security solutions
+198,Network and cyber security
+199,Computer security
+200,Database security
+201,Web application security
+202,"Security policy, model and architecture"
+203,Security in social networks
+204,Security in parallel and distributed systems
+205,Security in mobile and wireless communications
+206,Security in cloud/pervasive computing
+207,Authentication authorization and accounting
+208,Security of 5G networks
+209,Miscellaneous security issues
+210,Steganography and steganalysis
+211,Security-aware facial recognition
+212,Privacy in web-based applications and services
+213,Privacy in database systems
+214,Privacy in parallel and distributed systems
+215,Privacy in cloud/pervasive computing
+216,Privacy in mobile and wireless communications
+217,Privacy in e-commerce and e-government
+218,Privacy in network deployment and management
+219,Privacy and trust
+220,Privacy and security
+221,Privacy and anonymity
+222,Privacy preservation in 5G
+223,Miscellaneous privacy issues
+224,Privacy-preserving biometrics
+225,Anti-forensics and analytics
+226,Big data forensics
+227,CCTV forensics
+228,Cloud forensics
+229,Computational forensics
+230,Cyber-physical system forensics
+231,Datamining for forensics
+232,Fingerprint forensics
+233,Image forensics
+234,Malware forensics
+235,"Mobile app forensics (e.g. Skype, WeChat and Facebook)"
+236,Mobile device forensics
+237,Multimedia forensics
+238,Network forensics
+239,Emerging hardware security
+240,Emerging security problems and solutions in edge/fog computing
+241,Emerging paradigms of deep learning in security
+242,Emerging applications of reinforcement learning for securing networks
+243,Emerging secure mechanisms for service delivery models
+244,Emerging quantum safe cryptography for 5G
+245,Emerging techniques in intelligent transportation systems
+246,Emerging network attacks & anomalies detection and prevention
+247,Emerging approaches to cybersecurity
+248,Emerging techniques in identity management
+249,Emerging approaches of smart contract and distributed ledger
+250,Emerging blockchain techniques
+251,"Attacks and countermeasures including but not limited to side-channel attacks, reverse engineering, tampering, and Trojans"
+252,"Hardware-based security primitives including PUFs, TRNGs and ciphers"
+253,"Security, privacy, trust protocols, and trusted information flow"
+254,"Ensuring trust using untrusted tools, IP, models and manufacturing"
+255,Secure hardware architectures Secure memory systems
+256,Post-quantum security primitives
+257,Security challenges and opportunities of emerging nanoscale devices
+258,IoT and cyber-physical system security
+259,Any other topics related to hardware security
+260,"EDA and physical design tools, processes, methodologies, and flows"
+261,"Design tools for analysis/ tolerance of variation, aging, and soft-errors"
+262,Design and maintenance of hard and soft IP blocks
+263,"Challenges and solutions of integrating, testing, qualifying and manufacturing IP blocks from multiple vendors"
+264,EDA for non-traditional problems such as smart power grid and solar energy
+265,"EDA tools and methodologies for 3D integrations, and advanced packaging"
+266,Modeling and Simulation of Semiconductor Processes and Devices (TCAD)
+267,CAD for bio-inspired and neuromorphic systems
+268,"EDA tools, methodologies and applications for Photonics devices, circuit and system design"
+269,EDA for MEMS Any other topics related design automation tools and methodologies
+270,"Hardware and software formal-, assertion-, and simulation-based design verification techniques"
+271,"All areas of DFT, ATE and BIST for digital designs, analog/mixed-signal IC's, SoC's, and memories"
+272,Test synthesis and synthesis for testability
+273,"Fault diagnosis, IDDQ test, novel test methods, effectiveness of test methods, fault models and ATPG, and DPPM prediction"
+274,SoC/IP testing strategies Design methodologies dealing with the link between testability and manufacturing
+275,Hardware/software co-verification
+276,"Advanced methodologies, testbenches, and flows (e.g., UVM, HDLs, HVLs)"
+277,Formal and semi-formal verification and validation techniques
+278,Safety and security in verification and validation New methods and tools supporting functional safety and security
+279,Self-checking testbenches in analog verification
+280,Any other topics related to design test and verification
+281,"Design, simulation and modeling of emerging technologies"
+282,"Design, simulation and modeling of emerging non-volatile memory and logic, such as STT-RAM, PC-RAM, R-RAM, and Memristors"
+283,"Application of emerging devices for storage and computation including but not limited to cognitive, neuromorphic, or quantum computing"
+284,"Qubit technologies and quantum computing Specialty technologies such as MEMs, NEMs"
+285,Novel or emerging solid state nanoelectronic devices and concepts
+286,Design and Technology Co-Optimization
+287,"Optimization-based methodologies that address the interaction between design (custom, semi-custom, ASIC, FPGA, RF, memory, etc.)"
+288,"Advanced-node manufacturing techniques such as multiple patterning, EUV lithography, DSA lithography,"
+289,"Advanced interconnect (e.g., air gap for local interconnect, Si photonics, etc.)."
+290,"Modeling, analysis, and optimization of technology implications on performance metrics like power consumption, timing, area, and cost."
+291,Design methods and tools to improve yield and manufacturability.
+292,Any other topics related to emerging device technologies and applications
+293,"Low power, high-performance, and robust design of logic, memory, analog, interconnect, RF, programmable logic, and FPGA circuits"
+294,"Techniques for leakage control, power optimization, and power management"
+295,"Analog circuit design including but not limited to all-digital PLLs and DLLs, ADC's and DAC's"
+296,Adaptive and resilient digital circuits and systems
+297,"On-chip process, voltage, temperature, and aging sensors and monitoring"
+298,"Hardware design for IoT sensors and actuators including digital logic, memory design, wireless communications, energy harvesting, signal processing, and power management"
+299,"Innovative packaging technologies including 3D IC, 2.5D or interposer, and multi-chip module and their impact on system design"
+300,"Design techniques, methodologies and flows for vertically integrated circuits/chips"
+301,Modeling and mitigation of device interactions for 3D ICs
+302,Design of die-to-die interfaces in 3D/2.5D ICs
+303,Design-for-testability and system-level design issues in 3D/2.5D
+304,Die-package co-design
+305,"Any other topics related to circuit design, 3D integration and advanced packaging"
+306,"Methods and tools aiming at quality of systems including multi-core processors, graphics processors embedded systems, SoC, novel accelerator designs, and heterogeneous architecture designs"
+307,"System-level trade-off analysis and multi-objective (e.g. yield, power, delay, area, etc.) optimization"
+308,System level power and thermal management
+309,Exploration of influence of emerging technologies on the system level design
+310,"System level modeling and simulation to characterize effects of process, voltage, temperature, and aging on power, performance, and reliability"
+311,"Cyber-Physical Systems – Design, Methodologies & Tools"
+312,"HW/SW co-design, co-simulation, co-optimization, and co-exploration"
+313,HW/SW prototyping and emulation on FPGAs
+314,Micro-architectural transformation
+315,System communication architecture
+316,Application driven heterogeneous computing platforms
+317,Network-on-chip design methodologies
+318,Any other topics related to system level design and methodologies
+319,Neuromorphic computing and non-Von Neumann architectures
+320,"Hardware and architecture for neural networks and system-level design for (deep) neural computing Neural network acceleration techniques including GPGPU, FPGA and dedicated ASICs"
+321,Safe and secure machine learning Hardware accelerators for Artificial Intelligence Cognitive-inspired computing fundamentals
+322,Cognitive-inspired computing systems
+323,Cognitive-inspired computing with big data
+324,Cognitive-inspired intelligent interaction AI-assisted cognitive computing approaches
+325,Brain analysis for cognitive-inspired computing Internet of cognitive Things
+326,"Cognitive environment, sensing and data"
+327,Cognitive robots and agents Security issue in cognitive-inspired computing
+328,"Test-bed, prototype implementation and applications"
+329,Any other topics related to cognitive computing hardware
+330,"Novel reconfigurable architectures, including overlay architectures"
+331,Architectures for high performance and/or low power computing
+332,Security assessment and enhancements for reconfigurable computing
+333,"Specialized memory systems including volatile, non-volatile, and hybrid memory subsystems"
+334,Emerging technologies with in-field reconfiguration abilities
+335,"Clusters, data centers, or large systems of reconfigurable devices"
+336,Heterogeneous programmable architectures
+337,"Abstractions, programming models, interfaces, and runtimes, including virtualization"
+338,New languages and design frameworks for spatial or heterogeneous applications
+339,High-level synthesis and designer productivity in general
+340,"Software-Defined-systems (e.g. radio, networks, frameworks for new domains)"
+341,Customizable soft processors systems
+342,Run-time management of reconfigurable hardware
+343,System resilience/fault tolerance for reconfigurable hardware
+344,"Evolvable, adaptable, or autonomous reconfigurable computing systems"
+345,Security assessment and enhancement of run-time reconfiguration
+346,Data center or cluster with reconfigurable applications
+347,New uses of run-time reconfiguration in applications-specific systems
+348,"Applications that utilize reconfigurable technology for performance and efficiency, and particularly submissions that make comparisons with other highly parallel architectures such as GPUs or DSPs"
+349,Novel use of state-of-the-art commercial FPGAs
+350,FPGA archtecture
+351,FPGA circuit design
+352,CAD for FPGAs
+353,High-level abstractions and tools for FPGA
+354,FPGA-based and FPGA-like computing engines
+355,Applications and design studies
+356,
