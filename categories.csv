@@ -1,0 +1,358 @@
+,Category
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,General machine learning
+31,General machine learning
+32,General machine learning
+33,General machine learning
+34,General machine learning
+35,General machine learning
+36,General machine learning
+37,General machine learning
+38,Deep learning
+39,Deep learning
+40,Deep learning
+41,Learning theory
+42,Learning theory
+43,Learning theory
+44,Optimization
+45,Optimization
+46,Optimization
+47,Optimization
+48,Probabilistic inference
+49,Probabilistic inference
+50,Probabilistic inference
+51,Trustworthy machine learning
+52,Trustworthy machine learning
+53,Trustworthy machine learning
+54,Trustworthy machine learning
+55,Trustworthy machine learning
+56,Machine learning applications
+57,Machine learning applications
+58,Machine learning applications
+59,Machine learning applications
+60,Machine learning applications
+61,Machine learning applications
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+129,
+130,
+131,
+132,
+133,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148,
+149,
+150,
+151,
+152,
+153,
+154,
+155,
+156,
+157,
+158,
+159,
+160,
+161,
+162,
+163,
+164,
+165,
+166,
+167,
+168,
+169,
+170,
+171,
+172,
+173,
+174,
+175,
+176,
+177,
+178,
+179,
+180,
+181,
+182,
+183,Trust
+184,Trust
+185,Trust
+186,Trust
+187,Trust
+188,Trust
+189,Trust
+190,Trust
+191,Trust
+192,Trust
+193,Trust
+194,Trust
+195,Trust
+196,Trust
+197,Trust
+198,Security
+199,Security
+200,Security
+201,Security
+202,Security
+203,Security
+204,Security
+205,Security
+206,Security
+207,Security
+208,Security
+209,Security
+210,Security
+211,Security
+212,Privacy
+213,Privacy
+214,Privacy
+215,Privacy
+216,Privacy
+217,Privacy
+218,Privacy
+219,Privacy
+220,Privacy
+221,Privacy
+222,Privacy
+223,Privacy
+224,Privacy
+225,Forensics and analytics
+226,Forensics and analytics
+227,Forensics and analytics
+228,Forensics and analytics
+229,Forensics and analytics
+230,Forensics and analytics
+231,Forensics and analytics
+232,Forensics and analytics
+233,Forensics and analytics
+234,Forensics and analytics
+235,Forensics and analytics
+236,Forensics and analytics
+237,Forensics and analytics
+238,Forensics and analytics
+239,Emerging tech
+240,Emerging tech
+241,Emerging tech
+242,Emerging tech
+243,Emerging tech
+244,Emerging tech
+245,Emerging tech
+246,Emerging tech
+247,Emerging tech
+248,Emerging tech
+249,Emerging tech
+250,Emerging tech
+251,Hardware and systems security
+252,Hardware and systems security
+253,Hardware and systems security
+254,Hardware and systems security
+255,Hardware and systems security
+256,Hardware and systems security
+257,Hardware and systems security
+258,Hardware and systems security
+259,Hardware and systems security
+260,Electronic design automation tools and methodologies
+261,Electronic design automation tools and methodologies
+262,Electronic design automation tools and methodologies
+263,Electronic design automation tools and methodologies
+264,Electronic design automation tools and methodologies
+265,Electronic design automation tools and methodologies
+266,Electronic design automation tools and methodologies
+267,Electronic design automation tools and methodologies
+268,Electronic design automation tools and methodologies
+269,Electronic design automation tools and methodologies
+270,Design test and verification
+271,Design test and verification
+272,Design test and verification
+273,Design test and verification
+274,Design test and verification
+275,Design test and verification
+276,Design test and verification
+277,Design test and verification
+278,Design test and verification
+279,Design test and verification
+280,Design test and verification
+281,Emerging devices and process technologies and applications
+282,Emerging devices and process technologies and applications
+283,Emerging devices and process technologies and applications
+284,Emerging devices and process technologies and applications
+285,Emerging devices and process technologies and applications
+286,Emerging devices and process technologies and applications
+287,Emerging devices and process technologies and applications
+288,Emerging devices and process technologies and applications
+289,Emerging devices and process technologies and applications
+290,Emerging devices and process technologies and applications
+291,Emerging devices and process technologies and applications
+292,Emerging devices and process technologies and applications
+293,"Circuit design, 3D integration and advanced packaging"
+294,"Circuit design, 3D integration and advanced packaging"
+295,"Circuit design, 3D integration and advanced packaging"
+296,"Circuit design, 3D integration and advanced packaging"
+297,"Circuit design, 3D integration and advanced packaging"
+298,"Circuit design, 3D integration and advanced packaging"
+299,"Circuit design, 3D integration and advanced packaging"
+300,"Circuit design, 3D integration and advanced packaging"
+301,"Circuit design, 3D integration and advanced packaging"
+302,"Circuit design, 3D integration and advanced packaging"
+303,"Circuit design, 3D integration and advanced packaging"
+304,"Circuit design, 3D integration and advanced packaging"
+305,"Circuit design, 3D integration and advanced packaging"
+306,System-level design and methodologies
+307,System-level design and methodologies
+308,System-level design and methodologies
+309,System-level design and methodologies
+310,System-level design and methodologies
+311,System-level design and methodologies
+312,System-level design and methodologies
+313,System-level design and methodologies
+314,System-level design and methodologies
+315,System-level design and methodologies
+316,System-level design and methodologies
+317,System-level design and methodologies
+318,System-level design and methodologies
+319,Cognitive computing hardware
+320,Cognitive computing hardware
+321,Cognitive computing hardware
+322,Cognitive computing hardware
+323,Cognitive computing hardware
+324,Cognitive computing hardware
+325,Cognitive computing hardware
+326,Cognitive computing hardware
+327,Cognitive computing hardware
+328,Cognitive computing hardware
+329,Cognitive computing hardware
+330,Architectures
+331,Architectures
+332,Architectures
+333,Architectures
+334,Architectures
+335,Architectures
+336,Architectures
+337,"Abstractions, programming models, and tools"
+338,"Abstractions, programming models, and tools"
+339,"Abstractions, programming models, and tools"
+340,"Abstractions, programming models, and tools"
+341,"Abstractions, programming models, and tools"
+342,Reconfiguration
+343,Reconfiguration
+344,Reconfiguration
+345,Reconfiguration
+346,Applications
+347,Applications
+348,Applications
+349,Applications
+350,
+351,
+352,
+353,
+354,
+355,
+356,
